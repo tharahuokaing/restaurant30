@@ -1,52 +1,68 @@
 ⚠️ Educational Use Only
-🍴 ប្រព័ន្ធគ្រប់គ្រងភោជនីយដ្ឋាន ហួ កាំង (សាខាកាលីហ្វ័រញ៉ា សហរដ្ឋអាមេរិក)
-Developed by: Huokaing Thara
 
-នេះគឺជាគេហទំព័រផ្លូវការសម្រាប់គ្រប់គ្រង និងបង្ហាញព័ត៌មានរបស់ភោជនីយដ្ឋាន ហួ កាំង សាខាកាលីហ្វ័រញ៉ា សហរដ្ឋអាមេរិក ដែលត្រូវបានរៀបចំឡើងដើម្បីផ្ដល់ភាពងាយស្រួលដល់អតិថិជនក្នុងការពិនិត្យមើលមុខម្ហូប និងសេវាកម្មផ្សេងៗ។
+# 🍴 Hệ Thống Quản Lý Nhà Hàng 5 Sao ហួ កាំង (Chi Nhánh Hà Nội, Việt Nam)
 
-🌐 Link ទៅកាន់ប្រព័ន្ធ: https://tharahuokaing.github.io/restaurant4/
+**Developed by: Huokaing Thara**
 
-ℹ️ អំពីប្រព័ន្ធ
-ប្រព័ន្ធនេះត្រូវបានបង្កើតឡើងក្នុងគោលបំណងធ្វើទំនើបកម្មអាជីវកម្មភោជនីយដ្ឋាន ហួ កាំង សាខាកាលីហ្វ័រញ៉ា សហរដ្ឋអាមេរិក។ វាផ្ដោតទៅលើភាពងាយស្រួលនៃចំណុចប្រទាក់អ្នកប្រើ (User Interface) និងល្បឿននៃការដំណើរការ ដើម្បីឱ្យអតិថិជនទទួលបានបទពិសោធន៍ល្អបំផុត。
+Đây là trang web chính thức dùng để quản lý và giới thiệu thông tin của **Nhà Hàng 5 Sao ហួ កាំង – Chi Nhánh Hà Nội, Việt Nam**, được xây dựng nhằm mang đến sự thuận tiện cho khách hàng trong việc xem thực đơn và các dịch vụ của nhà hàng.
 
-✨ មុខងារសំខាន់ៗ
+🌐 **Liên kết hệ thống:**
+https://tharahuokaing.github.io/restaurant4/
 
-Menu Display: បង្ហាញបញ្ជីមុខម្ហូប និងភេសជ្ជៈតាមប្រភេទនីមួយៗយ៉ាងច្បាស់លាស់។
+## ℹ️ Giới Thiệu Hệ Thống
 
-Responsive Design: ដំណើរការបានយ៉ាងរលូនលើគ្រប់ឧបករណ៍ទាំងអស់ (ទូរស័ព្ទ, Tablet, និង Desktop)។
+Hệ thống được phát triển nhằm hiện đại hóa hoạt động kinh doanh của **Nhà Hàng 5 Sao ហួ កាំង – Chi Nhánh Hà Nội, Việt Nam**. Website tập trung vào giao diện thân thiện với người dùng (User Interface) và tốc độ xử lý nhanh, giúp khách hàng có trải nghiệm tốt nhất khi sử dụng.
 
-Fast Loading: ប្រព័ន្ធត្រូវបានបង្កើនប្រសិទ្ធភាពដើម្បីឱ្យដើរលឿនបំផុត។
+## ✨ Tính Năng Nổi Bật
 
-Easy Navigation: ងាយស្រួលក្នុងការស្វែងរកព័ត៌មាន និងទីតាំងរបស់ហាង។
+### Menu Display
 
-🛠️ បច្ចេកវិទ្យាដែលប្រើប្រាស់
-ដើម្បីបង្កើតប្រព័ន្ធនេះ ខ្ញុំបានប្រើប្រាស់បច្ចេកវិទ្យាដូចជា៖
+Hiển thị danh sách món ăn và đồ uống theo từng danh mục một cách rõ ràng và trực quan.
 
-HTML5 & CSS3: សម្រាប់រចនាសម្ព័ន្ធ និងសោភ័ណភាព។
+### Responsive Design
 
-JavaScript: សម្រាប់មុខងារ Interactive ផ្សេងៗ។
+Hoạt động mượt mà trên mọi thiết bị như điện thoại, máy tính bảng và máy tính để bàn.
 
-GitHub Pages: សម្រាប់ធ្វើការ Hosting គេហទំព័រ។
+### Fast Loading
 
-🚀 របៀបដំឡើង (For Developers)
-ប្រសិនបើអ្នកចង់យកទៅកែសម្រួល ឬដំឡើងក្នុងម៉ាស៊ីនផ្ទាល់ខ្លួន៖
+Hệ thống được tối ưu hóa để tải nhanh và vận hành ổn định.
 
-Clone code ចេញពី GitHub:
+### Easy Navigation
 
-Bash
+Dễ dàng tìm kiếm thông tin, thực đơn và vị trí của nhà hàng.
+
+## 🛠️ Công Nghệ Sử Dụng
+
+Hệ thống được xây dựng bằng các công nghệ hiện đại:
+
+* HTML5 & CSS3: Thiết kế cấu trúc và giao diện.
+* JavaScript: Tạo các tính năng tương tác.
+* GitHub Pages: Dùng để lưu trữ và triển khai website.
+
+## 🚀 Hướng Dẫn Cài Đặt (Dành Cho Nhà Phát Triển)
+
+### 1. Sao chép mã nguồn từ GitHub
+
+```bash
 git clone https://github.com/tharahuokaing/restaurant.git
-2. ចូលទៅក្នុង Folder គម្រោង:
-   ```bash
+```
+
+### 2. Truy cập thư mục dự án
+
+```bash
 cd restaurant
-បើកជាមួយ Browser: គ្រាន់តែចុចពីរដងលើឯកសារ index.html ជាការស្រេច។
+```
 
-📞 ទំនាក់ទំនង
-សម្រាប់ព័ត៌មានបន្ថែម ឬការគាំទ្រផ្នែកបច្ចេកទេស សូមទាក់ទងមកកាន់៖
+### 3. Mở bằng trình duyệt
 
-Developer: Huokaing Thara
+Chỉ cần mở tệp `index.html` bằng trình duyệt để sử dụng.
 
-GitHub: @tharahuokaing
+## 📞 Liên Hệ
 
-Location: ភោជនីយដ្ឋាន ហួ កាំង សាខាកាលីហ្វ័រញ៉ា សហរដ្ឋអាមេរិក (California, United States)
+Để biết thêm thông tin hoặc nhận hỗ trợ kỹ thuật, vui lòng liên hệ:
 
-© 2029 រក្សាសិទ្ធិដោយ Huokaing Thara។
+**Developer:** Huokaing Thara
+**GitHub:** @tharahuokaing
+**Location:** Nhà Hàng 5 Sao ហួ កាំង – Chi Nhánh Hà Nội, Việt Nam
+
+© 2029 Huokaing Thara. All Rights Reserved.
